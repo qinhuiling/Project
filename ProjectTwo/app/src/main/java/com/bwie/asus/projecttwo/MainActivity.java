@@ -29,6 +29,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void initView() {
+        //查找控件
         et1 = (EditText) findViewById(R.id.et1);
         et2 = (EditText) findViewById(R.id.et2);
         button = (Button) findViewById(R.id.button);
