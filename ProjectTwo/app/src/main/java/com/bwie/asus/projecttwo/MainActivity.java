@@ -36,6 +36,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void initData() {
+        //点击监听
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
