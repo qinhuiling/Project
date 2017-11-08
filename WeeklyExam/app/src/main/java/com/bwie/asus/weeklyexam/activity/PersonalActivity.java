@@ -23,6 +23,7 @@ public class PersonalActivity extends BaseActivity implements View.OnClickListen
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_personal);
 
+        //调用方法
         initView();
 
     }

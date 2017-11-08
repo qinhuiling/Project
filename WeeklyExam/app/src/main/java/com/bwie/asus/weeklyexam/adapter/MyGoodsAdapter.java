@@ -24,13 +24,10 @@ public class MyGoodsAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder
     private Context context;
     private List<GoodsBean.DataBean> list;
 
-
-
     public MyGoodsAdapter(Context context, List<GoodsBean.DataBean> list) {
         this.context = context;
         this.list = list;
     }
-
 
     @Override
     public RecyclerView.ViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
