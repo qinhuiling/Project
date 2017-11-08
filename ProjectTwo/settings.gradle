@@ -1,1 +1,1 @@
-include ':app', ':zhoukaoyi'
+include ':app', ':zhoukaoyi', ':brokenpointdownload', ':taobaoshopping'
