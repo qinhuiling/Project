@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity implements Login{
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        //查找控件
         username = (EditText) findViewById(R.id.username);
         password = (EditText) findViewById(R.id.password);
 
