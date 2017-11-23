@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyView">
+        <attr name="color" format="color" />
+        <attr name="color_fover" format="color" />
+        <attr name="rudius" format="dimension" />
+    </declare-styleable>
+</resources>
